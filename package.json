@@ -1,0 +1,29 @@
+{
+  "name": "runkit-plus-ultra",
+  "version": "0.3.0",
+  "description": "Runkit tools for loading TypeScript, ES Modules and more. Makes testing Isomorphic code easyer, lets you use unstable features and import modules from git.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/FossPrime/runkit-plus-ultra.git"
+  },
+  "keywords": [
+    "runkit",
+    "typescript",
+    "modules",
+    "compiler",
+    "loader",
+    "imports",
+    "playground"
+  ],
+  "author": "Ray Foss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/FossPrime/runkit-plus-ultra/issues"
+  },
+  "homepage": "https://gitlab.com/FossPrime/runkit-plus-ultra#readme"
+}
